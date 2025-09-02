@@ -56,9 +56,9 @@ By the end of the semester, you will:
 |[ELMS Page](https://umd.instructure.com/courses/1388524){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
 
 
-|[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2207](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
+|[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB1116](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
 |[INSTRUCTOR OFFICE HOURS](){: .label .label-green } | Wednesday, 2:00-3:00, [IRB4126](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/) or [Zoom](https://umd.zoom.us/my/huaishu)|
-|[TA OFFICE HOURS](){: .label .label-green } | Monday, 2:00-3:00, [IRB0102](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
+|[TA OFFICE HOURS](){: .label .label-green } | By [Email]{mailto:zeyuy@umd.edu} appointment, [IRB0102](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
 
 
 ### Acknowledgment
