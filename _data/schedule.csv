@@ -1,0 +1,30 @@
+Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes / Prep
+1,Sep 3,Wed,Course Intro + What is Embodied AI?,"Icebreaker: discuss examples (Roomba, Alexa, Boston Dynamics)","Prep: Brooks, Intelligence without representation"
+2,Sep 8,Mon,Embodiment & Sensors,–,"Prep: Pfeifer & Bongard, How the body shapes the way we think"
+2,Sep 10,Wed,–,"Lab: Pi Basics + Makerspace Intro (GPIO, LEDs, motors, CAD/3D printing)",–
+3,Sep 15,Mon,"Perception I: Cameras, Audio, Tactile",–,"Prep: OpenCV tutorial"
+3,Sep 17,Wed,–,"Lab: Basic Sensor Integration (camera + microphone + sensors)","Deliverable: sensor log"
+4,Sep 22,Mon,"Planning & Control I: From Sensors to Actions",–,"Prep: Brooks’ subsumption architecture"
+4,Sep 24,Wed,–,"Lab: Robot Movement + Prototyping Bodies (wheeled/servo robot, craft/3D parts)","Deliverable: obstacle course navigation"
+5,Sep 29,Mon,"TA Lecture: ROS Basics (conceptual)",–,"Demo: ROS node on Pi"
+5,Oct 1,Wed,–,"Lab: ROS on Pi (publish/subscribe, sensor topics)",–
+6,Oct 6,Mon,Interaction Design & HRI Principles,–,"Prep: Breazeal, Designing sociable robots"
+6,Oct 8,Wed,–,"Lab: Human Detection (face/body tracking)",–
+7,Oct 13,Mon,Fall Break,–,–
+7,Oct 15,Wed,–,"Checkpoint 1: Project Proposal Presentations","Teams present embodiment + project idea"
+8,Oct 20,Mon,"TA Lecture: Speech & Gesture APIs",–,–
+8,Oct 22,Wed,–,"Lab: Simple HRI Demo (Multimodal “Hello Robot”)",–
+9,Oct 27,Mon,Learning in Embodied AI I,–,"Prep: Sutton & Barto, selected sections"
+9,Oct 29,Wed,–,Lab: Learning Demo in ROS2,–
+10,Nov 3,Mon,Advanced Learning in Embodied AI II,–,"Prep: Selected ethics papers"
+10,Nov 5,Wed,–,"Checkpoint 2: Midterm Project Presentations","Demo prototype progress"
+11,Nov 10,Mon,"User Studies in HRI I: Design & Methods",–,–
+11,Nov 12,Wed,–,"Lab: Mock User Study (mini study with peers)",–
+12,Nov 17,Mon,"User Studies in HRI II: Analysis & Evaluation",–,"Bayesian filters & evaluation methods"
+12,Nov 19,Wed,–,"Lab: Data Collection & Analysis Practice","Expressive HRI or simple swarm/affective response"
+13,Nov 24,Mon,Probabilistic Robotics & Uncertainty,–,"Teams refine body, expressive/creative features"
+13,Nov 26,Wed,–,No Class (Thanksgiving),–
+14,Dec 1,Mon,Ethics in Embodiment & HRI,–,"Guest lecture / cutting-edge HRI research"
+14,Dec 3,Wed,–,"Lab: Final Project Support","TA-guided troubleshooting & polish"
+15,Dec 8,Mon,The Future of Embodied AI & HRI,Public showcase,
+15,Dec 10,Wed,–,Final Capstone Presentations,Public showcase

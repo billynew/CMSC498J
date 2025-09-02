@@ -6,6 +6,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 nav_order: 4
+nav_exclude: true
 ---
 
 <object data="../assets/pdf/730-Syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
