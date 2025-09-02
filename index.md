@@ -44,7 +44,6 @@ By the end of the semester, you will:
 ---
 
 ## Who Should Take This Course
-- Senior undergraduates in **Computer Science, Robotics, AI, or related fields**.  
 - Students eager to combine **technical rigor with creativity and design**.  
 - Those excited to explore how robots can be **useful, expressive, or even provocative**, and how people respond to them.  
 
