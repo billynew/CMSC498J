@@ -20,8 +20,8 @@ This new undergraduate course explores how **embodied AI** and **human–robot i
 
 ## What to Expect
 - **Lectures (Mondays):** Foundations of embodied cognition, robotics, sensing, planning, learning, and interaction design, along with ethics, creativity, and the future of embodiment.  
-- **Labs (Wednesdays):** Hands-on robotics with Raspberry Pi—wiring sensors, controlling motors, integrating perception, experimenting with ROS2, and building expressive systems.  
-- **Capstone Project:** In teams, you’ll design and build a **novel robot embodiment**. Each capstone will include both a **working prototype** and a **small user study** to test how people respond to your robot, culminating in a public showcase.  
+- **Labs (Wednesdays):** Hands-on robotics with Raspberry Pi as the base platform. You will need to wire sensors, controll motors, integrate perception, experiment with ROS2, and build expressive systems.  
+- **Capstone Project:** In teams, you’ll design and build a **novel robot embodiment**. Each capstone will include both a **working prototype** and a **small user study** to test how people respond to your robot, and a final demo in a public showcase.  
 
 ---
 
