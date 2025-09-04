@@ -1,22 +1,22 @@
-Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes / Prep
-1,3-Sep,Wed,[Course Intro](../assets/pdf/lectures/0-Overview.pdf),–,"[Prep: Brooks, Intelligence without representation](../assets/pdf/readings/Intelligence without representation.pdf)"
-2,8-Sep,Mon,Embodiment & Sensors,–,"Prep: Pfeifer & Bongard, How the body shapes the way we think"
+Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes
+1,3-Sep,Wed,[Course Intro](../assets/pdf/lectures/0-Overview.pdf),–,
+2,8-Sep,Mon,Embodiment & Sensors,–,"[Pfeifer & Bongard, How the body shapes the way we think](../assets/pdf/readings/mit.press.how.the.body.shapes.the.way.we.think.a.new.view.of.intelligence.nov.2006.pdf)"
 2,10-Sep,Wed,–,"Lab: Pi Basics + Makerspace Intro (GPIO, LEDs, motors, CAD/3D printing)",–
-3,15-Sep,Mon,"Perception I: Cameras, Audio, Tactile",–,Prep: OpenCV tutorial
+3,15-Sep,Mon,"Perception I: Cameras, Audio, Tactile",–,OpenCV tutorial
 3,17-Sep,Wed,–,Lab: Basic Sensor Integration (camera + microphone + sensors),Deliverable: sensor log
-4,22-Sep,Mon,Planning & Control I: From Sensors to Actions,–,Prep: Brooks’ subsumption architecture
+4,22-Sep,Mon,Planning & Control I: From Sensors to Actions,–,Brooks’ subsumption architecture
 4,24-Sep,Wed,–,"Lab: Robot Movement + Prototyping Bodies (wheeled/servo robot, craft/3D parts)",Deliverable: obstacle course navigation
 5,29-Sep,Mon,TA Lecture: ROS Basics (conceptual),–,Demo: ROS node on Pi
 5,1-Oct,Wed,–,"Lab: ROS on Pi (publish/subscribe, sensor topics)",–
-6,6-Oct,Mon,Interaction Design & HRI Principles,–,"Prep: Breazeal, Designing sociable robots"
+6,6-Oct,Mon,Interaction Design & HRI Principles,–,"Breazeal, Designing sociable robots"
 6,8-Oct,Wed,–,Lab: Human Detection (face/body tracking),–
 7,13-Oct,Mon,Fall Break,–,–
 7,15-Oct,Wed,–,Checkpoint 1: Project Proposal Presentations,Teams present embodiment + project idea
 8,20-Oct,Mon,TA Lecture: Speech & Gesture APIs,–,–
 8,22-Oct,Wed,–,Lab: Simple HRI Demo (Multimodal “Hello Robot”),–
-9,27-Oct,Mon,Learning in Embodied AI I,–,"Prep: Sutton & Barto, selected sections"
+9,27-Oct,Mon,Learning in Embodied AI I,–,"Sutton & Barto, selected sections"
 9,29-Oct,Wed,–,Lab: Learning Demo in ROS2,–
-10,3-Nov,Mon,Advanced Learning in Embodied AI II,–,Prep: Selected ethics papers
+10,3-Nov,Mon,Advanced Learning in Embodied AI II,–,Ethics papers
 10,5-Nov,Wed,–,Checkpoint 2: Midterm Project Presentations,Demo prototype progress
 11,10-Nov,Mon,User Studies in HRI I: Design & Methods,–,–
 11,12-Nov,Wed,–,Lab: Mock User Study (mini study with peers),–
