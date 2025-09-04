@@ -1,5 +1,5 @@
 Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes / Prep
-1,3-Sep,Wed,Course Intro + What is Embodied AI?,–,"Prep: Brooks, Intelligence without representation"
+1,3-Sep,Wed,[Course Intro](../assets/pdf/lectures/0-Overview.pdf),–,"[Prep: Brooks, Intelligence without representation](../assets/pdf/readings/Intelligence without representation.pdf)"
 2,8-Sep,Mon,Embodiment & Sensors,–,"Prep: Pfeifer & Bongard, How the body shapes the way we think"
 2,10-Sep,Wed,–,"Lab: Pi Basics + Makerspace Intro (GPIO, LEDs, motors, CAD/3D printing)",–
 3,15-Sep,Mon,"Perception I: Cameras, Audio, Tactile",–,Prep: OpenCV tutorial
