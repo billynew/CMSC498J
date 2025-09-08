@@ -85,7 +85,7 @@ nav_order: 2
         <th>Day</th>
         <th>Topic / Lecture</th>
         <th>Lab / Activity / Checkpoint</th>
-        <th>Notes / Prep</th>
+        <th>Notes / Readings</th>
       </tr>
     </thead>
 
@@ -102,7 +102,7 @@ nav_order: 2
             <td>{{ row.Day }}</td>
             <td>{{ row["Topic / Lecture"] | markdownify | strip }}</td>
             <td>{{ row["Lab / Activity / Checkpoint"] | markdownify | strip }}</td>
-            <td>{{ row["Notes / Prep"] | markdownify | strip }}</td>
+            <td>{{ row["Notes/Readings"] | markdownify | strip }}</td>
           </tr>
         {%- endfor -%}
       {%- endfor -%}
