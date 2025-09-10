@@ -84,8 +84,8 @@ nav_order: 2
         <th>Date</th>
         <th>Day</th>
         <th>Topic / Lecture</th>
-        <th>Lab / Activity / Checkpoint</th>
-        <th>Notes / Readings</th>
+        <th>Lab  / Checkpoint</th>
+        <th>Readings / Assignments</th>
       </tr>
     </thead>
 
