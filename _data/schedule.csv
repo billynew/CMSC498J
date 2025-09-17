@@ -3,7 +3,7 @@ Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes/Readings
 2,8-Sep,Mon,[Embodiment & Sensors](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85256698),–,"[Pfeifer & Bongard, How the body shapes the way we think](https://umd.instructure.com/courses/1388524/files/folder/Readings?preview=85256762)"
 2,10-Sep,Wed,–,[Lab: Pi Basics + GPIO + LEDs](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85304437),[Lab assignment 1](https://umd.instructure.com/courses/1388524/files/folder/Lab%20Assignments?preview=85304409)
 3,15-Sep,Mon,"[Acting in the world](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85382702)",–,–
-3,17-Sep,Wed,–,[Lab: 3D Modeling Basics](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85449070), 3D Printed Case
+3,17-Sep,Wed,–,[Lab: 3D Modeling Basics](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85449070), [Lab assignment 2](https://umd.instructure.com/courses/1388524/assignments/7368898)
 4,22-Sep,Mon,Planning & Control I: From Sensors to Actions,–,Brooks’ subsumption architecture
 4,24-Sep,Wed,–,"Lab: Robot Movement + Prototyping Bodies (wheeled/servo robot, craft/3D parts)",Deliverable: obstacle course navigation
 5,29-Sep,Mon,TA Lecture: ROS Basics (conceptual),–,Demo: ROS node on Pi
