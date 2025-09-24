@@ -4,7 +4,7 @@ Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes/Readings
 2,10-Sep,Wed,–,[Lab: Pi Basics + GPIO + LEDs](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85304437),[Lab assignment 1](https://umd.instructure.com/courses/1388524/files/folder/Lab%20Assignments?preview=85304409)
 3,15-Sep,Mon,"[Acting in the world](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85382702)",–,–
 3,17-Sep,Wed,–,[Lab: 3D Modeling Basics](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85449070), [Lab assignment 2](https://umd.instructure.com/courses/1388524/assignments/7368898)
-4,22-Sep,Mon,[Kinematics & Control I](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85552303),–,Brooks’ subsumption architecture
+4,22-Sep,Mon,[Kinematics & Control I](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85552303),–,–
 4,24-Sep,Wed,–,[Lab: servo + PWM](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85594578), [Lab assignment 3](https://umd.instructure.com/courses/1388524/assignments/7373292)
 5,29-Sep,Mon,TA Lecture: ROS Basics (conceptual),–,Demo: ROS node on Pi
 5,1-Oct,Wed,–,"Lab: ROS on Pi (publish/subscribe, sensor topics)",–
