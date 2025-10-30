@@ -12,10 +12,10 @@ Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes/Readings
 6,8-Oct,Wed,–,[Lab: I2C + IMU](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=85891693),–
 7,13-Oct,Mon,Fall Break,–,–
 7,15-Oct,Wed,–,Checkpoint 1: Project Proposal Presentations,Teams present embodiment + project idea
-8,20-Oct,Mon,TA Lecture: Setup ROS2,–,–
-8,22-Oct,Wed,–,Lab: Simple HRI Demo (Multimodal “Hello Robot”),–
-9,27-Oct,Mon,Learning in Embodied AI I,–,"Sutton & Barto, selected sections"
-9,29-Oct,Wed,–,Lab: Learning Demo in ROS2,–
+8,20-Oct,Mon,TA Extended Office Hour,–,–
+8,22-Oct,Wed,–,[Lab: Simple HRI Demo](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=86129056),–
+9,27-Oct,Mon,[Learning in Embodied AI I](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=86276402),–,"Sutton & Barto, selected sections"
+9,29-Oct,Wed,–,[Lab: ROS2 Node 2](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=86276403),–
 10,3-Nov,Mon,Advanced Learning in Embodied AI II,–,Ethics papers
 10,5-Nov,Wed,–,Checkpoint 2: Midterm Project Presentations,Demo prototype progress
 11,10-Nov,Mon,User Studies in HRI I: Design & Methods,–,–
