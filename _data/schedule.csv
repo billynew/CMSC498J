@@ -17,9 +17,9 @@ Week,Date,Day,Topic / Lecture,Lab / Activity / Checkpoint,Notes/Readings
 9,27-Oct,Mon,[Learning in Embodied AI I](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=86276402),–,"Sutton & Barto, selected sections"
 9,29-Oct,Wed,–,[Lab: ROS2 Node 2](https://umd.instructure.com/courses/1388524/files/folder/Lectures%20%2B%20Labs?preview=86276403),–
 10,3-Nov,Mon,Advanced Learning in Embodied AI II,–,Ethics papers
-10,5-Nov,Wed,–,Checkpoint 2: Midterm Project Presentations,Demo prototype progress
+10,5-Nov,Wed,–,[Lab: ROS2 3](),–
 11,10-Nov,Mon,User Studies in HRI I: Design & Methods,–,–
-11,12-Nov,Wed,–,Lab: Mock User Study (mini study with peers),–
+11,12-Nov,Wed,–,Checkpoint 2: Midterm Project Presentations,Demo prototype progress 
 12,17-Nov,Mon,User Studies in HRI II: Analysis & Evaluation,–,Bayesian filters & evaluation methods
 12,19-Nov,Wed,–,Lab: Data Collection & Analysis Practice,Expressive HRI or simple swarm/affective response
 13,24-Nov,Mon,Probabilistic Robotics & Uncertainty,–,"Teams refine body, expressive/creative features"
